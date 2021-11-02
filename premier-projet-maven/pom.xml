@@ -12,9 +12,14 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <junit.version>3.8.1</junit.version>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
+
+  <build>
+    <finalName>premier-projet-maven</finalName>
+  </build>
 
   <dependencies>
     <dependency>
