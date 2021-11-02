@@ -1,2 +1,5 @@
 # dependencies
 /target
+/.settings
+.project
+.classpath
